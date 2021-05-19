@@ -1,0 +1,13 @@
+.highlight {
+    background-color: rgba(233, 26, 12, 0.425);
+    border-bottom: 2px solid red;
+  }
+
+  #outer-container {
+      max-width: 800px;
+      margin:auto;
+  }
+
+  .r6o-editor-inner {
+      padding: 10px;
+  }
