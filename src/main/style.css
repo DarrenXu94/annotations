@@ -11,3 +11,13 @@
   .r6o-editor-inner {
       padding: 10px;
   }
+
+  .movedLocation {
+    background-color: rgba(12, 132, 212, 0.397);
+    border-bottom: 2px solid blue;
+  }
+
+  html,body {
+    scroll-behavior: smooth;
+
+  }

@@ -8,7 +8,7 @@ export default function SideBar({ comments }) {
     <div>
       {content &&
         comments.map((comment) => {
-          return <SideBarComment comment={comment} />;
+          return <SideBarComment key={comment.id} comment={comment} />;
         })}
     </div>
   );
