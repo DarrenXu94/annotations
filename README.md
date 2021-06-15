@@ -2,6 +2,8 @@
 
 Exploration of the recogito annotations library
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea6c089d-6cb9-43e3-ab2a-ecf0f8011f4d/deploy-status)](https://app.netlify.com/sites/annotations-dev-ado/deploys)
+
 ## Features
 
 - Highlight to add an annotation
