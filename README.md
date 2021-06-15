@@ -1,25 +1,18 @@
-# New React Project Boilerplate
+# Annotations
 
-An alternative to using create-react-app with Parcel
+Exploration of the recogito annotations library
 
-## How to use
+## Features
 
-### Clone
+- Highlight to add an annotation
+- All annotations listed on the right nav
+- Annotations on the right can be scrolled to
+- Annotations are highlighted if they do not match what is expected
+- Adding in an annotation programatically
+- Ability to log all current annotations
+  
+## Acknowledgements
 
-```bash
-degit https://github.com/DarrenXu94/new-react-app#main
-```
+ - [Recogito annotation library](https://www.npmjs.com/package/@recogito/recogito-js)
 
-Degit removes all the repository git information.
-
-### Install
-
-```bash
-npm i
-```
-
-### Run
-
-```bash
-npm start
-```
+  
